@@ -1,0 +1,3 @@
+pandas
+iso3166
+altair
